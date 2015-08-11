@@ -14,3 +14,8 @@ The features unique to TX81Z Patch Derader are visible in the second panel of th
 7. Finally the degrade button starts the process while interrupt stops everything so when you hear something you like you can save the patch on the TX81Z.
 
 The TX81Z has a fairly small buffer for MIDI values, so spraying values at it too quickly will generate the "MIDI Buffer Error". However, even after getting the error it will continue listening to the incoming data, so even though it might be skipping a parameter here and there it lets us keep throwing things at it.
+
+More info:
+http://audiocookbook.org/
+http://audiocookbook.org/tx81z-patch-degrader-with-interpolation/
+http://audiocookbook.org/vintage-fm-swapping-bricks-for-loaves-of-bread/
